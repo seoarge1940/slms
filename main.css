@@ -6,7 +6,7 @@
   right: 50px!important;
   bottom:50px!important;
 }
-.footer-info.main-regulative-footer .info{
+#footer-section > div.middle > div > div.right > div.footer-info.main-regulative-footer > div > p{
   font-size: 48px;
   font-weight: 900;
 }
