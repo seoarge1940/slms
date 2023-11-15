@@ -3,6 +3,6 @@
 }
 
 #ls-openButton{
-  right: 50px;
-  bottom:50px;
+  right: 50px!important;
+  bottom:50px!important;
 }
